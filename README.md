@@ -3,13 +3,16 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva769&label=Profile%20views&color=0e75b6&style=flat" alt="shiva769" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiva769" alt="shiva769" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arshdee22502102" target="blank"><img src="https://img.shields.io/twitter/follow/arshdee22502102?logo=twitter&style=for-the-badge" alt="arshdee22502102" /></a> </p>
 
 - 📫 How to reach me **arsappppb60@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aEw9CE9TpuFm8bnxBUyq_fDPGEPHxXQO/view](https://drive.google.com/file/d/1aEw9CE9TpuFm8bnxBUyq_fDPGEPHxXQO/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
