@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/arshdee22502102" target="blank"><img src="https://img.shields.io/twitter/follow/arshdee22502102?logo=twitter&style=for-the-badge" alt="arshdee22502102" /></a> </p>
 
-- 📫 How to reach me **arsappppb60@gmail.com**
+- 📫 How to reach me **ks1114404@gmail.com**
 
-- - 📄 Know about my experiences [https://drive.google.com/file/d/1aEw9CE9TpuFm8bnxBUyq_fDPGEPHxXQO/view
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
